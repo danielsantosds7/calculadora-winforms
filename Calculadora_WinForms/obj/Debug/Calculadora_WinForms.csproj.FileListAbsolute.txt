@@ -1,0 +1,11 @@
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\Calculadora_WinForms.exe.config
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\Calculadora_WinForms.exe
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\bin\Debug\Calculadora_WinForms.pdb
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.csproj.AssemblyReference.cache
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.Form1.resources
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.Properties.Resources.resources
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.csproj.GenerateResource.cache
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.exe
+C:\Users\10795484674\Desktop\Projetos em WinForms\Calculadora_WinForms\Calculadora_WinForms\obj\Debug\Calculadora_WinForms.pdb
